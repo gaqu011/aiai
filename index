@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Analyse Boursière IA 2025</title>
+  <style>
+    body {
+      margin: 0;
+      background: #ffffff;
+      display: flex;
+      justify-content: center;
+      font-family: Arial, sans-serif;
+    }
+    .container {
+      max-width: 600px;
+      width: 100%;
+    }
+    .main-image {
+      width: 100%;
+      display: block;
+    }
+    .whatsapp-btn {
+      position: fixed;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      background-color: #25D366;
+      color: white;
+      font-weight: bold;
+      padding: 15px 25px;
+      border: none;
+      border-radius: 30px;
+      text-align: center;
+      text-decoration: none;
+      font-size: 18px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+      z-index: 999;
+    }
+    .whatsapp-btn:hover {
+      background-color: #1ebe57;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="ai2.png" alt="Analyse IA Boursière 2025" class="main-image">
+  </div>
+  <a class="whatsapp-btn" href="https://wa.me/33687653539" target="_blank" rel="noopener noreferrer">
+    📲 Consultation via WhatsApp
+  </a>
+</body>
+</html>
